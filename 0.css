@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+.img-start {
+    border: 5px solid black;
+}
+
+#img-1 {
+    border: 5px dashed red;
+}
+
+#img-2 {
+    border: 20px dashed pink;
+}
